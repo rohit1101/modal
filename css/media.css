@@ -1,0 +1,57 @@
+.open-modal:hover {
+  background-color: #50c5b7;
+}
+
+.modal-content {
+  background-color: aliceblue;
+  width: 90%;
+  margin: 10rem auto;
+}
+
+.modal-header {
+  background-color: #5cb85c;
+  padding: 1rem 1rem;
+  font-size: 1rem;
+}
+
+.modal-body {
+  padding: 1rem 1rem;
+  font-size: 1.5rem;
+}
+
+.modal-body h1 {
+  font-size: 2rem;
+  padding: 0 1rem;
+}
+
+.modal-body p {
+  font-size: 1.3rem;
+  padding: 1rem 1rem;
+}
+
+.modal-footer {
+  padding: 1rem 1rem;
+  font-size: 1rem;
+}
+
+.modal-footer h3 {
+  font-size: 2rem;
+  padding: 0 1rem;
+}
+
+.modal-footer p {
+  font-size: 1rem;
+  padding: 1rem 1rem;
+}
+
+.close-modal {
+  cursor: pointer;
+  float: right;
+  width: 2rem;
+  font-size: 2rem;
+  padding-right: 3rem;
+}
+
+.close-modal:hover {
+  color: rgba(200, 100, 50, 1);
+}
